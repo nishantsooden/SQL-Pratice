@@ -1,0 +1,3 @@
+## Create Database 
+CREATE DATABASE COMPANY;
+use COMPANY;
