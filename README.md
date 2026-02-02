@@ -1,36 +1,23 @@
-# SQL Interview Practice
+# SQL Basics Practice
 
-This repository contains my daily SQL practice from basic to advanced concepts.
-It includes queries on filtering, joins, subqueries, CTEs, window functions,
-and interview-oriented SQL problems.
+This folder contains SQL practice scripts covering fundamental concepts.
+The queries in this folder focus on building a strong foundation
+required for SQL interviews.
+
+## Files Included
+
+- `create_table.sql`  
+  Contains CREATE TABLE statements to define database schemas.
+
+- `insert_data.sql`  
+  Includes INSERT queries to populate tables with sample data.
+
+- `select_queries.sql`  
+  Contains interview-oriented SELECT queries to practice data retrieval,
+  filtering, sorting, and basic aggregations.
 
 ## Purpose
 
-This repository is maintained specifically for SQL interview preparation.
-All queries are written to strengthen problem-solving skills and reinforce
-core SQL concepts commonly asked in technical interviews.
-
-## Topics Covered
-
-- SQL Basics
-- Filtering using WHERE, IN, BETWEEN, LIKE
-- Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
-- GROUP BY and HAVING
-- Joins (INNER, LEFT, RIGHT, FULL)
-- Subqueries
-- Common Table Expressions (CTEs)
-- Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LEAD, LAG)
-- CASE WHEN statements
-- Interview-oriented SQL questions
-
-## Workflow
-
-- SQL queries are written and tested using a local database
-- Queries are saved as `.sql` files in VS Code
-- Only SQL scripts are version-controlled and pushed to GitHub
-
-## Goal
-
-To build strong SQL fundamentals and advanced query-writing skills
-required for Data Analyst and Data Scientist interviews.
-
+To strengthen core SQL fundamentals such as table creation,
+data insertion, and data retrieval, which are commonly tested
+in technical interviews.
