@@ -1,12 +1,16 @@
-# SQL Interview Practice – Aggregations & Grouping
+# 🚀 SQL Interview Practice – Aggregates & Grouping
 
-This repository contains **SQL interview practice questions** focused on
-aggregate functions and grouping operations.
+This repository is a **focused SQL practice set** covering the most
+**frequently asked interview topics** related to aggregation and grouping.
 
-The questions are designed for:
-- Data Analyst interviews
-- Entry-level Data Scientist roles
-- SQL fundamentals revision
+It is specially designed for:
+- 📊 Data Analyst interviews  
+- 🤖 Entry-level Data Scientist roles  
+- 🧠 SQL fundamentals & logic building  
+- 💼 Resume & GitHub portfolio showcase  
+
+⚠️ **Only questions are provided** — no answers — to encourage
+real hands-on practice.
 
 
 
